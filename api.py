@@ -4,5 +4,8 @@ def get_users():
 def local():
     return "local"
 
+def githubUI()
+    return "GH"
+
 def get_version():
     return "1.0.0"
